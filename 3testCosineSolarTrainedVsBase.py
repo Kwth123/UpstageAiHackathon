@@ -20,7 +20,7 @@ headers = {
 }
 
 # File path to your uploaded .jsonl file
-file_path = r'C:\UpstageAiHackathon\testingDataForAITravelAppTest.jsonl'
+file_path = r'C:\UpstageAiHackathon\testDataForAITravelApp.jsonl'
 
 # Reading the .jsonl file to extract the prompts and ground truth
 test_prompts = []
